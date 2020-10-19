@@ -76,6 +76,11 @@ can use to make the images smaller if desired */
   overflow: hidden;
 }
 
+.roverImages {
+  width: 100%;
+  height: auto;
+}
+
 #roverImages:hover{
   transform: scale(1.1);
 }

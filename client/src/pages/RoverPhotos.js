@@ -5,7 +5,7 @@ import LoadingIndicator from "../components/LoadingIndicator";
 import roverAPI from "../utils/roverAPI";
 import RoverModal from "../components/Modal/RoverModal";
 import { trackPromise } from "react-promise-tracker";
-import "./Home/home.css";
+// import "./Home/home.css";
 import "./style.css";
 
 function RoverPhotos() {
